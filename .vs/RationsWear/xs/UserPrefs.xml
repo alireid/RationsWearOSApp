@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1997721A-C85C-42FC-8046-D7967C322EAD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RationsWear/RationsWear/MainActivity.cs">
+    <Files>
+      <File FileName="RationsWear/RationsWear/MainActivity.cs" Line="12" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RationsWear" expanded="True">
+            <Node name="RationsWear" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RationsWear AndroidDesignerPreferredTheme="Theme.DeviceDefault" AndroidDesignerPreferredDevice="wear_square" PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
