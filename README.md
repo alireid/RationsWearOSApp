@@ -1,0 +1,2 @@
+# RationsWearOSApp
+ WearOS app
